@@ -37,3 +37,7 @@ Download Start.cmd and Start.ps1 files
   - It will run your Angular Project in a separate command prompt
   - It will open Angular project in default browser
 
+# Incase Just Incase you face issue
+# Run below command in powershell as Admin
+
+  Set-ExecutionPolicy Unrestricted
