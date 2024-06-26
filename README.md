@@ -30,7 +30,7 @@ Download Start.cmd and Start.ps1 files
 # Congratulations You are Done
   - Double click on the Start.cmd
 
-# What is will do?
+# What will it do?
   - It will open your .net solution in Visual Studio
   - It will run the project in debug mode (You must have set any project as start up project)
   - It will open your Angular Project in Visual Studio Code
