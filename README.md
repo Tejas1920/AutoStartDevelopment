@@ -1,5 +1,5 @@
 # AutoStartDevelopment
-Starts VS Project | Run Project | Start VS Code Project | Run Angular - On Single Click
+Open Web API Project in Visual Studio | Run Project and Open Swagger in Browser | Open Angular Project in VS Code | Run Angular Project in Console | Open Browser and Redirect to Angular Project Localhost - On Single Click
 
 # Problem
 As a fullstack developer its everyday stuff that we come to our system then we open .net Web API project and Run It 
