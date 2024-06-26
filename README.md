@@ -24,6 +24,7 @@ Download Start.cmd and Start.ps1 files
 
 # Step 3
   - Open Start.cmd
+  - Update Powershell Script Path to your relevent path
   - Update Angular Project Path to your relevent path
   - Save the file
 
